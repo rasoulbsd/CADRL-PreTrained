@@ -1,0 +1,7 @@
+2021-09-07 14:19:45, INFO: Current git head hash code: %s
+2021-09-07 14:19:45, INFO: Using device: cpu
+2021-09-07 14:19:45, INFO: Policy: SARL w/ global state
+2021-09-07 14:19:45, INFO: human number: 5
+2021-09-07 14:19:45, INFO: Not randomize human's radius and preferred speed
+2021-09-07 14:19:45, INFO: Training simulation: circle_crossing, test simulation: circle_crossing
+2021-09-07 14:19:45, INFO: Square width: 10.0, circle width: 4.0
